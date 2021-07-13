@@ -53,4 +53,3 @@ RSpec.describe "Has a Valid Document Structure" do
       expect(results.errors).to be_empty, error_messages
   end 
 end 
-  
